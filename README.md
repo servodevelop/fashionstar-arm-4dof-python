@@ -1,2 +1,3 @@
-# FashionStar_Arm4DoF_PythonSDK
-FashionStar 4自由度机械臂PythonSDK
+# 四自由度机械臂Python SDK
+
+Fashion Star 四自由度机械臂Python SDK以及实验记录
