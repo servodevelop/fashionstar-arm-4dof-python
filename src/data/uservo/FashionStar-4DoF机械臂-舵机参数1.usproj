@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Project ID="798679423" Version="1">
+  <ParameterSet>
+    <IsResponse>0</IsResponse>
+    <ControlMode>0</ControlMode>
+    <StallProtect>0</StallProtect>
+    <StallPowerLimit>10000</StallPowerLimit>
+    <OverVoltageLowLevel>5900</OverVoltageLowLevel>
+    <OverVoltageHighLevel>8600</OverVoltageHighLevel>
+    <OverTemperatureTriggerLevel>651</OverTemperatureTriggerLevel>
+    <OverPowerTriggerLevel>10000</OverPowerTriggerLevel>
+    <OverCurrentTriggerLevel>4000</OverCurrentTriggerLevel>
+    <StartupSpeed>0</StartupSpeed>
+    <BrakeSpeed>0</BrakeSpeed>
+    <PowerLockSwitch>0</PowerLockSwitch>
+    <WheelModeBrakeSwitch>0</WheelModeBrakeSwitch>
+    <AngleLimitSwitch>1</AngleLimitSwitch>
+    <SoftStartSwitch>1</SoftStartSwitch>
+    <SoftStartTime>3000</SoftStartTime>
+    <AngleUpperLimit>1350</AngleUpperLimit>
+    <AngleLowerLimit>-1350</AngleLowerLimit>
+    <CenterPointOffset>0</CenterPointOffset>
+  </ParameterSet>
+  <InternalParameterSet>
+    <Kp>962</Kp>
+    <Kd>882</Kd>
+    <Ki>1</Ki>
+    <Bias>0</Bias>
+    <HoldKp>300</HoldKp>
+    <HoldKd>2500</HoldKd>
+    <HoldBias>0</HoldBias>
+    <Direction>0</Direction>
+    <DeadBand>1</DeadBand>
+  </InternalParameterSet>
+</Project>
