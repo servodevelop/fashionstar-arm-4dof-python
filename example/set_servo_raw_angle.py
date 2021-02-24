@@ -1,7 +1,7 @@
 '''
 设置机械臂关节舵机的原始角度
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径

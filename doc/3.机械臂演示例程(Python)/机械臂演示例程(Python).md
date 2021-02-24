@@ -9,7 +9,7 @@
 | 文档名称     | 机械臂演示例程(Python) |
 | ------------ | ---------------------- |
 | 作者         | 阿凯                   |
-| 邮箱         | xingshunkai@qq.com     |
+| 邮箱         | kyle.xing@fashionstar.com.hk     |
 | 文档更新时间 | 2020-02-18             |
 | 版本说明     | 初次完成文档           |
 
@@ -147,7 +147,7 @@ arm.set_servo_angle({JOINT1: -45, JOINT2: 20, JOINT3:-45, JOINT4:0}, wait=True)
 '''
 设置机械臂舵机的原始角度
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径
@@ -206,7 +206,7 @@ arm.set_servo_velocity(20)
 '''
 调整舵机的平均转速,延时不同转速下的效果
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径
@@ -308,7 +308,7 @@ THETA_UPPERB = [math.pi/2, 0, 3*math.pi/4, math.pi/2]
 '''
 设置机械臂关节的弧度
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径
@@ -377,7 +377,7 @@ arm.move([5, 0, 5], wait=True)
 '''
 测试移动机械臂末端执行器的位置
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径
@@ -446,7 +446,7 @@ pump.off()
 
 注: 气泵相关的逻辑取决于所运行的平台,若有变更需修改micro_bump.py
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径
@@ -486,7 +486,7 @@ pump.off()
 '''
 使用气泵完成对木块的搬运
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径

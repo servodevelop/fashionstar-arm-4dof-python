@@ -1,7 +1,7 @@
 '''
 调整舵机的平均转速,延时不同转速下的效果
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径

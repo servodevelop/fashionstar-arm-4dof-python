@@ -1,7 +1,7 @@
 '''
 测试移动机械臂末端执行器的位置
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-18
 '''
 # 添加路径

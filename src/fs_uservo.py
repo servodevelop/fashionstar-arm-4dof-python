@@ -1,7 +1,7 @@
 '''
 Fashion Star 串口舵机Python SDK
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-17
 '''
 import time

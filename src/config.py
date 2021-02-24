@@ -1,7 +1,7 @@
 '''
 Fashion Star 4DoF机械臂的配置文件
 * 作者: 阿凯
-* Email: xingshunkai@qq.com
+* Email: kyle.xing@fashionstar.com.hk
 * 更新时间: 2020-02-17
 '''
 import math
